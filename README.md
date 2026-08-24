@@ -1,4 +1,4 @@
-# CareSense – AI-Powered Older Adult Safety & Wellbeing Platform
+# CareSense: AI-Powered Older Adult Safety & Wellbeing Platform
 
 CareSense is an ambient monitoring and behavioural analytics platform designed to support older adults living independently.
 
