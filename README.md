@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CareSense – AI-Powered Older Adult Safety & Wellbeing Platform
 
 Detects acute emergencies and slow deterioration for someone living alone,
@@ -106,3 +107,7 @@ afternoon, and nobody watching can tell which one wrote the text.
    one dataset does both.
 5. **Bathroom motion stands in for a toilet flush sensor.** On your own hardware
    the piezo on the cistern is a true Tier A signal and this gets much sharper.
+=======
+# Caresense
+AI-powered safety and wellbeing platform for older adults using ambient sensor analytics, anomaly detection, trend analysis, and cognitive wellbeing features.
+>>>>>>> a8476623be62ff00d48ff5a7af682f9fef5000b4
